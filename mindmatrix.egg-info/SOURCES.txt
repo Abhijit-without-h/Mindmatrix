@@ -1,0 +1,8 @@
+setup.py
+mindmatrix/__init__.py
+mindmatrix/core.py
+mindmatrix.egg-info/PKG-INFO
+mindmatrix.egg-info/SOURCES.txt
+mindmatrix.egg-info/dependency_links.txt
+mindmatrix.egg-info/requires.txt
+mindmatrix.egg-info/top_level.txt
